@@ -1,0 +1,38 @@
+---Classification---
+Logisitic Accuracy:  0.955
+Decision Tree Accuracy:  0.945
+Random Forest Accuracy:  0.955
+Random Forest F1:  0.4
+
+Accuracy = 0.955 → 95.5% predictions are correct
+At first glance this looks extremely good, but there is a major issue in this problem.
+*Class Imbalance Problem*
+
+Winner = 1
+Non-winner = 19
+
+A model can simply predict: "Not Winner" and still achieve ~95% accuracy.
+
+Accuracy = 0.95
+but
+F1 Score = 0.40
+
+-Model struggles to correctly detect actual winners
+-It predicts too many non-winners
+
+
+The model is good at predicting losers
+but not good at predicting the actual winner
+
+---Regression---
+MAE:  3.3687129986675917
+On average, the model predicts finishing position with 3.36 positions error.
+
+
+RMSE:  4.248157663515834
+RMSE penalizes large mistakes more heavily.
+Because RMSE > MAE, it suggests some large prediction errors exist.
+
+
+
+
