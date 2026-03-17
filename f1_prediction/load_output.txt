@@ -1,0 +1,16 @@
+Logistic Accuracy: 0.955
+Decision Tree Accuracy: 0.945
+Random Forest Accuracy: 0.955
+Random Forest F1: 0.5263157894736842
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98       192
+           1       0.43      0.38      0.40         8
+
+    accuracy                           0.95       200
+   macro avg       0.70      0.68      0.69       200
+weighted avg       0.95      0.95      0.95       200
+
+Linear Regression MAE: 3.3687129986675917
+Linear Regression RMSE: 4.248157663515834
