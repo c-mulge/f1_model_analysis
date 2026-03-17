@@ -1,0 +1,101 @@
+season,race,circuit,driver,constructor,grid,position,points,laps
+2022,Bahrain Grand Prix,Bahrain International Circuit,Leclerc,Ferrari,1,1,26.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Sainz,Ferrari,3,2,18.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Hamilton,Mercedes,5,3,15.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Russell,Mercedes,9,4,12.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Magnussen,Haas F1 Team,7,5,10.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Bottas,Alfa Romeo,6,6,8.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Ocon,Alpine F1 Team,11,7,6.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Tsunoda,AlphaTauri,16,8,4.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Alonso,Alpine F1 Team,8,9,2.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Zhou,Alfa Romeo,15,10,1.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Schumacher,Haas F1 Team,12,11,0.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Stroll,Aston Martin,19,12,0.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Albon,Williams,14,13,0.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Ricciardo,McLaren,18,14,0.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Norris,McLaren,13,15,0.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Latifi,Williams,20,16,0.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Hülkenberg,Aston Martin,17,17,0.0,57
+2022,Bahrain Grand Prix,Bahrain International Circuit,Pérez,Red Bull,4,18,0.0,56
+2022,Bahrain Grand Prix,Bahrain International Circuit,Verstappen,Red Bull,2,19,0.0,54
+2022,Bahrain Grand Prix,Bahrain International Circuit,Gasly,AlphaTauri,10,20,0.0,44
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Verstappen,Red Bull,4,1,25.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Leclerc,Ferrari,2,2,19.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Sainz,Ferrari,3,3,15.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Pérez,Red Bull,1,4,12.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Russell,Mercedes,6,5,10.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Ocon,Alpine F1 Team,5,6,8.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Norris,McLaren,11,7,6.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Gasly,AlphaTauri,9,8,4.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Magnussen,Haas F1 Team,10,9,2.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Hamilton,Mercedes,15,10,1.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Zhou,Alfa Romeo,12,11,0.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Hülkenberg,Aston Martin,17,12,0.0,50
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Stroll,Aston Martin,13,13,0.0,49
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Albon,Williams,16,14,0.0,47
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Bottas,Alfa Romeo,8,15,0.0,36
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Alonso,Alpine F1 Team,7,16,0.0,35
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Ricciardo,McLaren,14,17,0.0,35
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Latifi,Williams,18,18,0.0,14
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Tsunoda,AlphaTauri,19,19,0.0,0
+2022,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Schumacher,Haas F1 Team,0,20,0.0,0
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Leclerc,Ferrari,1,1,26.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Pérez,Red Bull,3,2,18.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Russell,Mercedes,6,3,15.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Hamilton,Mercedes,5,4,12.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Norris,McLaren,4,5,10.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Ricciardo,McLaren,7,6,8.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Ocon,Alpine F1 Team,8,7,6.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Bottas,Alfa Romeo,12,8,4.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Gasly,AlphaTauri,11,9,2.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Albon,Williams,20,10,1.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Zhou,Alfa Romeo,14,11,0.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Stroll,Aston Martin,19,12,0.0,58
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Schumacher,Haas F1 Team,15,13,0.0,57
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Magnussen,Haas F1 Team,16,14,0.0,57
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Tsunoda,AlphaTauri,13,15,0.0,57
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Latifi,Williams,18,16,0.0,57
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Alonso,Alpine F1 Team,10,17,0.0,57
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Verstappen,Red Bull,2,18,0.0,38
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Vettel,Aston Martin,17,19,0.0,22
+2022,Australian Grand Prix,Albert Park Grand Prix Circuit,Sainz,Ferrari,9,20,0.0,1
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Verstappen,Red Bull,1,1,26.0,63
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Pérez,Red Bull,3,2,18.0,63
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Norris,McLaren,5,3,15.0,63
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Russell,Mercedes,11,4,12.0,63
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Bottas,Alfa Romeo,7,5,10.0,63
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Leclerc,Ferrari,2,6,8.0,63
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Tsunoda,AlphaTauri,12,7,6.0,63
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Vettel,Aston Martin,13,8,4.0,63
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Magnussen,Haas F1 Team,8,9,2.0,63
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Stroll,Aston Martin,15,10,1.0,62
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Albon,Williams,18,11,0.0,62
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Gasly,AlphaTauri,17,12,0.0,62
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Hamilton,Mercedes,14,13,0.0,62
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Ocon,Alpine F1 Team,16,14,0.0,62
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Zhou,Alfa Romeo,0,15,0.0,62
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Latifi,Williams,19,16,0.0,62
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Schumacher,Haas F1 Team,10,17,0.0,62
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Ricciardo,McLaren,6,18,0.0,62
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Alonso,Alpine F1 Team,9,19,0.0,6
+2022,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Sainz,Ferrari,4,20,0.0,0
+2022,Miami Grand Prix,Miami International Autodrome,Verstappen,Red Bull,3,1,26.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Leclerc,Ferrari,1,2,18.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Sainz,Ferrari,2,3,15.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Pérez,Red Bull,4,4,12.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Russell,Mercedes,12,5,10.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Hamilton,Mercedes,6,6,8.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Bottas,Alfa Romeo,5,7,6.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Ocon,Alpine F1 Team,20,8,4.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Albon,Williams,18,9,2.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Stroll,Aston Martin,0,10,1.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Alonso,Alpine F1 Team,11,11,0.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Tsunoda,AlphaTauri,9,12,0.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Ricciardo,McLaren,14,13,0.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Latifi,Williams,19,14,0.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Schumacher,Haas F1 Team,15,15,0.0,57
+2022,Miami Grand Prix,Miami International Autodrome,Magnussen,Haas F1 Team,16,16,0.0,56
+2022,Miami Grand Prix,Miami International Autodrome,Vettel,Aston Martin,0,17,0.0,54
+2022,Miami Grand Prix,Miami International Autodrome,Gasly,AlphaTauri,7,18,0.0,45
+2022,Miami Grand Prix,Miami International Autodrome,Norris,McLaren,8,19,0.0,39
+2022,Miami Grand Prix,Miami International Autodrome,Zhou,Alfa Romeo,17,20,0.0,6

@@ -1,0 +1,101 @@
+season,race,circuit,driver,constructor,grid,position,points,laps
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Vettel,Ferrari,2,1,25.0,57
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Hamilton,Mercedes,1,2,18.0,57
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Bottas,Mercedes,3,3,15.0,57
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Räikkönen,Ferrari,4,4,12.0,57
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Verstappen,Red Bull,5,5,10.0,57
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Massa,Williams,7,6,8.0,57
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Pérez,Force India,10,7,6.0,56
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Sainz,Toro Rosso,8,8,4.0,56
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Kvyat,Toro Rosso,9,9,2.0,56
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Ocon,Force India,13,10,1.0,56
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Hülkenberg,Renault,11,11,0.0,56
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Giovinazzi,Sauber,16,12,0.0,55
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Vandoorne,McLaren,18,13,0.0,55
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Alonso,McLaren,12,14,0.0,50
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Magnussen,Haas F1 Team,17,15,0.0,46
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Stroll,Williams,20,16,0.0,40
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Ricciardo,Red Bull,0,17,0.0,25
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Ericsson,Sauber,14,18,0.0,21
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Palmer,Renault,19,19,0.0,15
+2017,Australian Grand Prix,Albert Park Grand Prix Circuit,Grosjean,Haas F1 Team,6,20,0.0,13
+2017,Chinese Grand Prix,Shanghai International Circuit,Hamilton,Mercedes,1,1,25.0,56
+2017,Chinese Grand Prix,Shanghai International Circuit,Vettel,Ferrari,2,2,18.0,56
+2017,Chinese Grand Prix,Shanghai International Circuit,Verstappen,Red Bull,16,3,15.0,56
+2017,Chinese Grand Prix,Shanghai International Circuit,Ricciardo,Red Bull,5,4,12.0,56
+2017,Chinese Grand Prix,Shanghai International Circuit,Räikkönen,Ferrari,4,5,10.0,56
+2017,Chinese Grand Prix,Shanghai International Circuit,Bottas,Mercedes,3,6,8.0,56
+2017,Chinese Grand Prix,Shanghai International Circuit,Sainz,Toro Rosso,11,7,6.0,56
+2017,Chinese Grand Prix,Shanghai International Circuit,Magnussen,Haas F1 Team,12,8,4.0,55
+2017,Chinese Grand Prix,Shanghai International Circuit,Pérez,Force India,8,9,2.0,55
+2017,Chinese Grand Prix,Shanghai International Circuit,Ocon,Force India,17,10,1.0,55
+2017,Chinese Grand Prix,Shanghai International Circuit,Grosjean,Haas F1 Team,19,11,0.0,55
+2017,Chinese Grand Prix,Shanghai International Circuit,Hülkenberg,Renault,7,12,0.0,55
+2017,Chinese Grand Prix,Shanghai International Circuit,Palmer,Renault,20,13,0.0,55
+2017,Chinese Grand Prix,Shanghai International Circuit,Massa,Williams,6,14,0.0,55
+2017,Chinese Grand Prix,Shanghai International Circuit,Ericsson,Sauber,14,15,0.0,55
+2017,Chinese Grand Prix,Shanghai International Circuit,Alonso,McLaren,13,16,0.0,33
+2017,Chinese Grand Prix,Shanghai International Circuit,Kvyat,Toro Rosso,9,17,0.0,18
+2017,Chinese Grand Prix,Shanghai International Circuit,Vandoorne,McLaren,15,18,0.0,17
+2017,Chinese Grand Prix,Shanghai International Circuit,Giovinazzi,Sauber,18,19,0.0,3
+2017,Chinese Grand Prix,Shanghai International Circuit,Stroll,Williams,10,20,0.0,0
+2017,Bahrain Grand Prix,Bahrain International Circuit,Vettel,Ferrari,3,1,25.0,57
+2017,Bahrain Grand Prix,Bahrain International Circuit,Hamilton,Mercedes,2,2,18.0,57
+2017,Bahrain Grand Prix,Bahrain International Circuit,Bottas,Mercedes,1,3,15.0,57
+2017,Bahrain Grand Prix,Bahrain International Circuit,Räikkönen,Ferrari,5,4,12.0,57
+2017,Bahrain Grand Prix,Bahrain International Circuit,Ricciardo,Red Bull,4,5,10.0,57
+2017,Bahrain Grand Prix,Bahrain International Circuit,Massa,Williams,8,6,8.0,57
+2017,Bahrain Grand Prix,Bahrain International Circuit,Pérez,Force India,18,7,6.0,57
+2017,Bahrain Grand Prix,Bahrain International Circuit,Grosjean,Haas F1 Team,9,8,4.0,57
+2017,Bahrain Grand Prix,Bahrain International Circuit,Hülkenberg,Renault,7,9,2.0,57
+2017,Bahrain Grand Prix,Bahrain International Circuit,Ocon,Force India,14,10,1.0,57
+2017,Bahrain Grand Prix,Bahrain International Circuit,Wehrlein,Sauber,13,11,0.0,56
+2017,Bahrain Grand Prix,Bahrain International Circuit,Kvyat,Toro Rosso,11,12,0.0,56
+2017,Bahrain Grand Prix,Bahrain International Circuit,Palmer,Renault,10,13,0.0,56
+2017,Bahrain Grand Prix,Bahrain International Circuit,Alonso,McLaren,15,14,0.0,54
+2017,Bahrain Grand Prix,Bahrain International Circuit,Ericsson,Sauber,19,15,0.0,50
+2017,Bahrain Grand Prix,Bahrain International Circuit,Sainz,Toro Rosso,16,16,0.0,12
+2017,Bahrain Grand Prix,Bahrain International Circuit,Stroll,Williams,12,17,0.0,12
+2017,Bahrain Grand Prix,Bahrain International Circuit,Verstappen,Red Bull,6,18,0.0,11
+2017,Bahrain Grand Prix,Bahrain International Circuit,Magnussen,Haas F1 Team,20,19,0.0,8
+2017,Bahrain Grand Prix,Bahrain International Circuit,Vandoorne,McLaren,17,20,0.0,0
+2017,Russian Grand Prix,Sochi Autodrom,Bottas,Mercedes,3,1,25.0,52
+2017,Russian Grand Prix,Sochi Autodrom,Vettel,Ferrari,1,2,18.0,52
+2017,Russian Grand Prix,Sochi Autodrom,Räikkönen,Ferrari,2,3,15.0,52
+2017,Russian Grand Prix,Sochi Autodrom,Hamilton,Mercedes,4,4,12.0,52
+2017,Russian Grand Prix,Sochi Autodrom,Verstappen,Red Bull,7,5,10.0,52
+2017,Russian Grand Prix,Sochi Autodrom,Pérez,Force India,9,6,8.0,52
+2017,Russian Grand Prix,Sochi Autodrom,Ocon,Force India,10,7,6.0,52
+2017,Russian Grand Prix,Sochi Autodrom,Hülkenberg,Renault,8,8,4.0,52
+2017,Russian Grand Prix,Sochi Autodrom,Massa,Williams,6,9,2.0,51
+2017,Russian Grand Prix,Sochi Autodrom,Sainz,Toro Rosso,14,10,1.0,51
+2017,Russian Grand Prix,Sochi Autodrom,Stroll,Williams,11,11,0.0,51
+2017,Russian Grand Prix,Sochi Autodrom,Kvyat,Toro Rosso,12,12,0.0,51
+2017,Russian Grand Prix,Sochi Autodrom,Magnussen,Haas F1 Team,13,13,0.0,51
+2017,Russian Grand Prix,Sochi Autodrom,Vandoorne,McLaren,20,14,0.0,51
+2017,Russian Grand Prix,Sochi Autodrom,Ericsson,Sauber,18,15,0.0,51
+2017,Russian Grand Prix,Sochi Autodrom,Wehrlein,Sauber,17,16,0.0,50
+2017,Russian Grand Prix,Sochi Autodrom,Ricciardo,Red Bull,5,17,0.0,5
+2017,Russian Grand Prix,Sochi Autodrom,Palmer,Renault,16,18,0.0,0
+2017,Russian Grand Prix,Sochi Autodrom,Grosjean,Haas F1 Team,19,19,0.0,0
+2017,Russian Grand Prix,Sochi Autodrom,Alonso,McLaren,15,20,0.0,0
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Hamilton,Mercedes,1,1,25.0,66
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Vettel,Ferrari,2,2,18.0,66
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Ricciardo,Red Bull,6,3,15.0,66
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Pérez,Force India,8,4,12.0,65
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Ocon,Force India,10,5,10.0,65
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Hülkenberg,Renault,13,6,8.0,65
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Sainz,Toro Rosso,12,7,6.0,65
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Wehrlein,Sauber,15,8,4.0,65
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Kvyat,Toro Rosso,19,9,2.0,65
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Grosjean,Haas F1 Team,14,10,1.0,65
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Ericsson,Sauber,16,11,0.0,64
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Alonso,McLaren,7,12,0.0,64
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Massa,Williams,9,13,0.0,64
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Magnussen,Haas F1 Team,11,14,0.0,64
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Palmer,Renault,17,15,0.0,64
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Stroll,Williams,18,16,0.0,64
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Bottas,Mercedes,3,17,0.0,38
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Vandoorne,McLaren,20,18,0.0,32
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Verstappen,Red Bull,5,19,0.0,1
+2017,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Räikkönen,Ferrari,4,20,0.0,0

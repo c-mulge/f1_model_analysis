@@ -1,0 +1,101 @@
+season,race,circuit,driver,constructor,grid,position,points,laps
+2020,Austrian Grand Prix,Red Bull Ring,Bottas,Mercedes,1,1,25.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Leclerc,Ferrari,7,2,18.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Norris,McLaren,3,3,16.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Hamilton,Mercedes,5,4,12.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Sainz,McLaren,8,5,10.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Pérez,Racing Point,6,6,8.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Gasly,AlphaTauri,12,7,6.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Ocon,Renault,14,8,4.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Giovinazzi,Alfa Romeo,18,9,2.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Vettel,Ferrari,11,10,1.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Latifi,Williams,20,11,0.0,71
+2020,Austrian Grand Prix,Red Bull Ring,Kvyat,AlphaTauri,13,12,0.0,69
+2020,Austrian Grand Prix,Red Bull Ring,Albon,Red Bull,4,13,0.0,67
+2020,Austrian Grand Prix,Red Bull Ring,Räikkönen,Alfa Romeo,19,14,0.0,53
+2020,Austrian Grand Prix,Red Bull Ring,Russell,Williams,17,15,0.0,49
+2020,Austrian Grand Prix,Red Bull Ring,Grosjean,Haas F1 Team,15,16,0.0,49
+2020,Austrian Grand Prix,Red Bull Ring,Magnussen,Haas F1 Team,16,17,0.0,24
+2020,Austrian Grand Prix,Red Bull Ring,Stroll,Racing Point,9,18,0.0,20
+2020,Austrian Grand Prix,Red Bull Ring,Ricciardo,Renault,10,19,0.0,17
+2020,Austrian Grand Prix,Red Bull Ring,Verstappen,Red Bull,2,20,0.0,11
+2020,Styrian Grand Prix,Red Bull Ring,Hamilton,Mercedes,1,1,25.0,71
+2020,Styrian Grand Prix,Red Bull Ring,Bottas,Mercedes,4,2,18.0,71
+2020,Styrian Grand Prix,Red Bull Ring,Verstappen,Red Bull,2,3,15.0,71
+2020,Styrian Grand Prix,Red Bull Ring,Albon,Red Bull,6,4,12.0,71
+2020,Styrian Grand Prix,Red Bull Ring,Norris,McLaren,9,5,10.0,71
+2020,Styrian Grand Prix,Red Bull Ring,Pérez,Racing Point,17,6,8.0,71
+2020,Styrian Grand Prix,Red Bull Ring,Stroll,Racing Point,12,7,6.0,71
+2020,Styrian Grand Prix,Red Bull Ring,Ricciardo,Renault,8,8,4.0,71
+2020,Styrian Grand Prix,Red Bull Ring,Sainz,McLaren,3,9,3.0,70
+2020,Styrian Grand Prix,Red Bull Ring,Kvyat,AlphaTauri,13,10,1.0,70
+2020,Styrian Grand Prix,Red Bull Ring,Räikkönen,Alfa Romeo,16,11,0.0,70
+2020,Styrian Grand Prix,Red Bull Ring,Magnussen,Haas F1 Team,15,12,0.0,70
+2020,Styrian Grand Prix,Red Bull Ring,Grosjean,Haas F1 Team,0,13,0.0,70
+2020,Styrian Grand Prix,Red Bull Ring,Giovinazzi,Alfa Romeo,19,14,0.0,70
+2020,Styrian Grand Prix,Red Bull Ring,Gasly,AlphaTauri,7,15,0.0,70
+2020,Styrian Grand Prix,Red Bull Ring,Russell,Williams,11,16,0.0,69
+2020,Styrian Grand Prix,Red Bull Ring,Latifi,Williams,18,17,0.0,69
+2020,Styrian Grand Prix,Red Bull Ring,Ocon,Renault,5,18,0.0,25
+2020,Styrian Grand Prix,Red Bull Ring,Leclerc,Ferrari,14,19,0.0,4
+2020,Styrian Grand Prix,Red Bull Ring,Vettel,Ferrari,10,20,0.0,1
+2020,Hungarian Grand Prix,Hungaroring,Hamilton,Mercedes,1,1,26.0,70
+2020,Hungarian Grand Prix,Hungaroring,Verstappen,Red Bull,7,2,18.0,70
+2020,Hungarian Grand Prix,Hungaroring,Bottas,Mercedes,2,3,15.0,70
+2020,Hungarian Grand Prix,Hungaroring,Stroll,Racing Point,3,4,12.0,70
+2020,Hungarian Grand Prix,Hungaroring,Albon,Red Bull,13,5,10.0,70
+2020,Hungarian Grand Prix,Hungaroring,Vettel,Ferrari,5,6,8.0,69
+2020,Hungarian Grand Prix,Hungaroring,Pérez,Racing Point,4,7,6.0,69
+2020,Hungarian Grand Prix,Hungaroring,Ricciardo,Renault,11,8,4.0,69
+2020,Hungarian Grand Prix,Hungaroring,Sainz,McLaren,9,9,2.0,69
+2020,Hungarian Grand Prix,Hungaroring,Magnussen,Haas F1 Team,0,10,1.0,69
+2020,Hungarian Grand Prix,Hungaroring,Leclerc,Ferrari,6,11,0.0,69
+2020,Hungarian Grand Prix,Hungaroring,Kvyat,AlphaTauri,17,12,0.0,69
+2020,Hungarian Grand Prix,Hungaroring,Norris,McLaren,8,13,0.0,69
+2020,Hungarian Grand Prix,Hungaroring,Ocon,Renault,14,14,0.0,69
+2020,Hungarian Grand Prix,Hungaroring,Räikkönen,Alfa Romeo,20,15,0.0,69
+2020,Hungarian Grand Prix,Hungaroring,Grosjean,Haas F1 Team,0,16,0.0,69
+2020,Hungarian Grand Prix,Hungaroring,Giovinazzi,Alfa Romeo,19,17,0.0,69
+2020,Hungarian Grand Prix,Hungaroring,Russell,Williams,12,18,0.0,69
+2020,Hungarian Grand Prix,Hungaroring,Latifi,Williams,15,19,0.0,65
+2020,Hungarian Grand Prix,Hungaroring,Gasly,AlphaTauri,10,20,0.0,15
+2020,British Grand Prix,Silverstone Circuit,Hamilton,Mercedes,1,1,25.0,52
+2020,British Grand Prix,Silverstone Circuit,Verstappen,Red Bull,3,2,19.0,52
+2020,British Grand Prix,Silverstone Circuit,Leclerc,Ferrari,4,3,15.0,52
+2020,British Grand Prix,Silverstone Circuit,Ricciardo,Renault,8,4,12.0,52
+2020,British Grand Prix,Silverstone Circuit,Norris,McLaren,5,5,10.0,52
+2020,British Grand Prix,Silverstone Circuit,Ocon,Renault,9,6,8.0,52
+2020,British Grand Prix,Silverstone Circuit,Gasly,AlphaTauri,11,7,6.0,52
+2020,British Grand Prix,Silverstone Circuit,Albon,Red Bull,12,8,4.0,52
+2020,British Grand Prix,Silverstone Circuit,Stroll,Racing Point,6,9,2.0,52
+2020,British Grand Prix,Silverstone Circuit,Vettel,Ferrari,10,10,1.0,52
+2020,British Grand Prix,Silverstone Circuit,Bottas,Mercedes,2,11,0.0,52
+2020,British Grand Prix,Silverstone Circuit,Russell,Williams,20,12,0.0,52
+2020,British Grand Prix,Silverstone Circuit,Sainz,McLaren,7,13,0.0,52
+2020,British Grand Prix,Silverstone Circuit,Giovinazzi,Alfa Romeo,15,14,0.0,52
+2020,British Grand Prix,Silverstone Circuit,Latifi,Williams,18,15,0.0,52
+2020,British Grand Prix,Silverstone Circuit,Grosjean,Haas F1 Team,17,16,0.0,52
+2020,British Grand Prix,Silverstone Circuit,Räikkönen,Alfa Romeo,16,17,0.0,51
+2020,British Grand Prix,Silverstone Circuit,Kvyat,AlphaTauri,19,18,0.0,11
+2020,British Grand Prix,Silverstone Circuit,Magnussen,Haas F1 Team,14,19,0.0,1
+2020,British Grand Prix,Silverstone Circuit,Hülkenberg,Racing Point,13,20,0.0,0
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Verstappen,Red Bull,4,1,25.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Hamilton,Mercedes,2,2,19.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Bottas,Mercedes,1,3,15.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Leclerc,Ferrari,8,4,12.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Albon,Red Bull,9,5,10.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Stroll,Racing Point,6,6,8.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Hülkenberg,Racing Point,3,7,6.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Ocon,Renault,14,8,4.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Norris,McLaren,10,9,2.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Kvyat,AlphaTauri,16,10,1.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Gasly,AlphaTauri,7,11,0.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Vettel,Ferrari,11,12,0.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Sainz,McLaren,12,13,0.0,52
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Ricciardo,Renault,5,14,0.0,51
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Räikkönen,Alfa Romeo,20,15,0.0,51
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Grosjean,Haas F1 Team,13,16,0.0,51
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Giovinazzi,Alfa Romeo,19,17,0.0,51
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Russell,Williams,15,18,0.0,51
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Latifi,Williams,18,19,0.0,51
+2020,70th Anniversary Grand Prix,Silverstone Circuit,Magnussen,Haas F1 Team,17,20,0.0,43

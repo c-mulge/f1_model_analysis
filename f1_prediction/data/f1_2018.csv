@@ -1,0 +1,101 @@
+season,race,circuit,driver,constructor,grid,position,points,laps
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Vettel,Ferrari,3,1,25.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Hamilton,Mercedes,1,2,18.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Räikkönen,Ferrari,2,3,15.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Ricciardo,Red Bull,8,4,12.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Alonso,McLaren,10,5,10.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Verstappen,Red Bull,4,6,8.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Hülkenberg,Renault,7,7,6.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Bottas,Mercedes,15,8,4.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Vandoorne,McLaren,11,9,2.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Sainz,Renault,9,10,1.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Pérez,Force India,12,11,0.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Ocon,Force India,14,12,0.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Leclerc,Sauber,18,13,0.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Stroll,Williams,13,14,0.0,58
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Hartley,Toro Rosso,16,15,0.0,57
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Grosjean,Haas F1 Team,6,16,0.0,24
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Magnussen,Haas F1 Team,5,17,0.0,22
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Gasly,Toro Rosso,20,18,0.0,13
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Ericsson,Sauber,17,19,0.0,5
+2018,Australian Grand Prix,Albert Park Grand Prix Circuit,Sirotkin,Williams,19,20,0.0,4
+2018,Bahrain Grand Prix,Bahrain International Circuit,Vettel,Ferrari,1,1,25.0,57
+2018,Bahrain Grand Prix,Bahrain International Circuit,Bottas,Mercedes,3,2,18.0,57
+2018,Bahrain Grand Prix,Bahrain International Circuit,Hamilton,Mercedes,9,3,15.0,57
+2018,Bahrain Grand Prix,Bahrain International Circuit,Gasly,Toro Rosso,5,4,12.0,57
+2018,Bahrain Grand Prix,Bahrain International Circuit,Magnussen,Haas F1 Team,6,5,10.0,57
+2018,Bahrain Grand Prix,Bahrain International Circuit,Hülkenberg,Renault,7,6,8.0,57
+2018,Bahrain Grand Prix,Bahrain International Circuit,Alonso,McLaren,13,7,6.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Vandoorne,McLaren,14,8,4.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Ericsson,Sauber,17,9,2.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Ocon,Force India,8,10,1.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Sainz,Renault,10,11,0.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Leclerc,Sauber,19,12,0.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Grosjean,Haas F1 Team,16,13,0.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Stroll,Williams,20,14,0.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Sirotkin,Williams,18,15,0.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Pérez,Force India,12,16,0.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Hartley,Toro Rosso,11,17,0.0,56
+2018,Bahrain Grand Prix,Bahrain International Circuit,Räikkönen,Ferrari,2,18,0.0,35
+2018,Bahrain Grand Prix,Bahrain International Circuit,Verstappen,Red Bull,15,19,0.0,3
+2018,Bahrain Grand Prix,Bahrain International Circuit,Ricciardo,Red Bull,4,20,0.0,1
+2018,Chinese Grand Prix,Shanghai International Circuit,Ricciardo,Red Bull,6,1,25.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Bottas,Mercedes,3,2,18.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Räikkönen,Ferrari,2,3,15.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Hamilton,Mercedes,4,4,12.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Verstappen,Red Bull,5,5,10.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Hülkenberg,Renault,7,6,8.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Alonso,McLaren,13,7,6.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Vettel,Ferrari,1,8,4.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Sainz,Renault,9,9,2.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Magnussen,Haas F1 Team,11,10,1.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Ocon,Force India,12,11,0.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Pérez,Force India,8,12,0.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Vandoorne,McLaren,14,13,0.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Stroll,Williams,18,14,0.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Sirotkin,Williams,16,15,0.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Ericsson,Sauber,20,16,0.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Grosjean,Haas F1 Team,10,17,0.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Gasly,Toro Rosso,17,18,0.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Leclerc,Sauber,19,19,0.0,56
+2018,Chinese Grand Prix,Shanghai International Circuit,Hartley,Toro Rosso,15,20,0.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Hamilton,Mercedes,2,1,25.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Räikkönen,Ferrari,6,2,18.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Pérez,Force India,8,3,15.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Vettel,Ferrari,1,4,12.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Sainz,Renault,9,5,10.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Leclerc,Sauber,13,6,8.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Alonso,McLaren,12,7,6.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Stroll,Williams,10,8,4.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Vandoorne,McLaren,16,9,2.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Hartley,Toro Rosso,19,10,1.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Ericsson,Sauber,18,11,0.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Gasly,Toro Rosso,17,12,0.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Magnussen,Haas F1 Team,15,13,0.0,51
+2018,Azerbaijan Grand Prix,Baku City Circuit,Bottas,Mercedes,3,14,0.0,48
+2018,Azerbaijan Grand Prix,Baku City Circuit,Grosjean,Haas F1 Team,20,15,0.0,42
+2018,Azerbaijan Grand Prix,Baku City Circuit,Verstappen,Red Bull,5,16,0.0,39
+2018,Azerbaijan Grand Prix,Baku City Circuit,Ricciardo,Red Bull,4,17,0.0,39
+2018,Azerbaijan Grand Prix,Baku City Circuit,Hülkenberg,Renault,14,18,0.0,10
+2018,Azerbaijan Grand Prix,Baku City Circuit,Ocon,Force India,7,19,0.0,0
+2018,Azerbaijan Grand Prix,Baku City Circuit,Sirotkin,Williams,11,20,0.0,0
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Hamilton,Mercedes,1,1,25.0,66
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Bottas,Mercedes,2,2,18.0,66
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Verstappen,Red Bull,5,3,15.0,66
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Vettel,Ferrari,3,4,12.0,66
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Ricciardo,Red Bull,6,5,10.0,66
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Magnussen,Haas F1 Team,7,6,8.0,65
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Sainz,Renault,9,7,6.0,65
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Alonso,McLaren,8,8,4.0,65
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Pérez,Force India,15,9,2.0,64
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Leclerc,Sauber,14,10,1.0,64
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Stroll,Williams,18,11,0.0,64
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Hartley,Toro Rosso,20,12,0.0,64
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Ericsson,Sauber,17,13,0.0,64
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Sirotkin,Williams,19,14,0.0,63
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Vandoorne,McLaren,11,15,0.0,45
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Ocon,Force India,13,16,0.0,38
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Räikkönen,Ferrari,4,17,0.0,25
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Grosjean,Haas F1 Team,10,18,0.0,0
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Gasly,Toro Rosso,12,19,0.0,0
+2018,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Hülkenberg,Renault,16,20,0.0,0

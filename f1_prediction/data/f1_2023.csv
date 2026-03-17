@@ -1,0 +1,101 @@
+season,race,circuit,driver,constructor,grid,position,points,laps
+2023,Bahrain Grand Prix,Bahrain International Circuit,Verstappen,Red Bull,1,1,25.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Pérez,Red Bull,2,2,18.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Alonso,Aston Martin,5,3,15.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Sainz,Ferrari,4,4,12.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Hamilton,Mercedes,7,5,10.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Stroll,Aston Martin,8,6,8.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Russell,Mercedes,6,7,6.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Bottas,Alfa Romeo,12,8,4.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Gasly,Alpine F1 Team,20,9,2.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Albon,Williams,15,10,1.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Tsunoda,AlphaTauri,14,11,0.0,57
+2023,Bahrain Grand Prix,Bahrain International Circuit,Sargeant,Williams,16,12,0.0,56
+2023,Bahrain Grand Prix,Bahrain International Circuit,Magnussen,Haas F1 Team,17,13,0.0,56
+2023,Bahrain Grand Prix,Bahrain International Circuit,de Vries,AlphaTauri,19,14,0.0,56
+2023,Bahrain Grand Prix,Bahrain International Circuit,Hülkenberg,Haas F1 Team,10,15,0.0,56
+2023,Bahrain Grand Prix,Bahrain International Circuit,Zhou,Alfa Romeo,13,16,0.0,56
+2023,Bahrain Grand Prix,Bahrain International Circuit,Norris,McLaren,11,17,0.0,55
+2023,Bahrain Grand Prix,Bahrain International Circuit,Ocon,Alpine F1 Team,9,18,0.0,41
+2023,Bahrain Grand Prix,Bahrain International Circuit,Leclerc,Ferrari,3,19,0.0,39
+2023,Bahrain Grand Prix,Bahrain International Circuit,Piastri,McLaren,18,20,0.0,13
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Pérez,Red Bull,1,1,25.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Verstappen,Red Bull,15,2,19.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Alonso,Aston Martin,2,3,15.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Russell,Mercedes,3,4,12.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Hamilton,Mercedes,7,5,10.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Sainz,Ferrari,4,6,8.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Leclerc,Ferrari,12,7,6.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Ocon,Alpine F1 Team,6,8,4.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Gasly,Alpine F1 Team,9,9,2.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Magnussen,Haas F1 Team,13,10,1.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Tsunoda,AlphaTauri,16,11,0.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Hülkenberg,Haas F1 Team,10,12,0.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Zhou,Alfa Romeo,11,13,0.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,de Vries,AlphaTauri,18,14,0.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Piastri,McLaren,8,15,0.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Sargeant,Williams,20,16,0.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Norris,McLaren,19,17,0.0,50
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Bottas,Alfa Romeo,14,18,0.0,49
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Albon,Williams,17,19,0.0,27
+2023,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Stroll,Aston Martin,5,20,0.0,16
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Verstappen,Red Bull,1,1,25.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Hamilton,Mercedes,3,2,18.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Alonso,Aston Martin,4,3,15.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Stroll,Aston Martin,6,4,12.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Pérez,Red Bull,20,5,11.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Norris,McLaren,13,6,8.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Hülkenberg,Haas F1 Team,10,7,6.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Piastri,McLaren,16,8,4.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Zhou,Alfa Romeo,17,9,2.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Tsunoda,AlphaTauri,12,10,1.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Bottas,Alfa Romeo,19,11,0.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Sainz,Ferrari,5,12,0.0,58
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Gasly,Alpine F1 Team,9,13,0.0,56
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Ocon,Alpine F1 Team,11,14,0.0,56
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,de Vries,AlphaTauri,15,15,0.0,56
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Sargeant,Williams,18,16,0.0,56
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Magnussen,Haas F1 Team,14,17,0.0,52
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Russell,Mercedes,2,18,0.0,17
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Albon,Williams,8,19,0.0,6
+2023,Australian Grand Prix,Albert Park Grand Prix Circuit,Leclerc,Ferrari,7,20,0.0,0
+2023,Azerbaijan Grand Prix,Baku City Circuit,Pérez,Red Bull,3,1,25.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Verstappen,Red Bull,2,2,18.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Leclerc,Ferrari,1,3,15.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Alonso,Aston Martin,6,4,12.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Sainz,Ferrari,4,5,10.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Hamilton,Mercedes,5,6,8.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Stroll,Aston Martin,9,7,6.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Russell,Mercedes,11,8,5.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Norris,McLaren,7,9,2.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Tsunoda,AlphaTauri,8,10,1.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Piastri,McLaren,10,11,0.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Albon,Williams,12,12,0.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Magnussen,Haas F1 Team,16,13,0.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Gasly,Alpine F1 Team,17,14,0.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Ocon,Alpine F1 Team,19,15,0.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Sargeant,Williams,14,16,0.0,51
+2023,Azerbaijan Grand Prix,Baku City Circuit,Hülkenberg,Haas F1 Team,20,17,0.0,50
+2023,Azerbaijan Grand Prix,Baku City Circuit,Bottas,Alfa Romeo,13,18,0.0,50
+2023,Azerbaijan Grand Prix,Baku City Circuit,Zhou,Alfa Romeo,15,19,0.0,36
+2023,Azerbaijan Grand Prix,Baku City Circuit,de Vries,AlphaTauri,18,20,0.0,9
+2023,Miami Grand Prix,Miami International Autodrome,Verstappen,Red Bull,9,1,26.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Pérez,Red Bull,1,2,18.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Alonso,Aston Martin,2,3,15.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Russell,Mercedes,6,4,12.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Sainz,Ferrari,3,5,10.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Hamilton,Mercedes,13,6,8.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Leclerc,Ferrari,7,7,6.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Gasly,Alpine F1 Team,5,8,4.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Ocon,Alpine F1 Team,8,9,2.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Magnussen,Haas F1 Team,4,10,1.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Tsunoda,AlphaTauri,17,11,0.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Stroll,Aston Martin,18,12,0.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Bottas,Alfa Romeo,10,13,0.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Albon,Williams,11,14,0.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Hülkenberg,Haas F1 Team,12,15,0.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Zhou,Alfa Romeo,14,16,0.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Norris,McLaren,16,17,0.0,57
+2023,Miami Grand Prix,Miami International Autodrome,de Vries,AlphaTauri,15,18,0.0,57
+2023,Miami Grand Prix,Miami International Autodrome,Piastri,McLaren,19,19,0.0,56
+2023,Miami Grand Prix,Miami International Autodrome,Sargeant,Williams,20,20,0.0,56

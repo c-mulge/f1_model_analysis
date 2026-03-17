@@ -1,0 +1,101 @@
+season,race,circuit,driver,constructor,grid,position,points,laps
+2024,Bahrain Grand Prix,Bahrain International Circuit,Verstappen,Red Bull,1,1,26.0,57
+2024,Bahrain Grand Prix,Bahrain International Circuit,Pérez,Red Bull,5,2,18.0,57
+2024,Bahrain Grand Prix,Bahrain International Circuit,Sainz,Ferrari,4,3,15.0,57
+2024,Bahrain Grand Prix,Bahrain International Circuit,Leclerc,Ferrari,2,4,12.0,57
+2024,Bahrain Grand Prix,Bahrain International Circuit,Russell,Mercedes,3,5,10.0,57
+2024,Bahrain Grand Prix,Bahrain International Circuit,Norris,McLaren,7,6,8.0,57
+2024,Bahrain Grand Prix,Bahrain International Circuit,Hamilton,Mercedes,9,7,6.0,57
+2024,Bahrain Grand Prix,Bahrain International Circuit,Piastri,McLaren,8,8,4.0,57
+2024,Bahrain Grand Prix,Bahrain International Circuit,Alonso,Aston Martin,6,9,2.0,57
+2024,Bahrain Grand Prix,Bahrain International Circuit,Stroll,Aston Martin,12,10,1.0,57
+2024,Bahrain Grand Prix,Bahrain International Circuit,Zhou,Sauber,17,11,0.0,56
+2024,Bahrain Grand Prix,Bahrain International Circuit,Magnussen,Haas F1 Team,15,12,0.0,56
+2024,Bahrain Grand Prix,Bahrain International Circuit,Ricciardo,RB F1 Team,14,13,0.0,56
+2024,Bahrain Grand Prix,Bahrain International Circuit,Tsunoda,RB F1 Team,11,14,0.0,56
+2024,Bahrain Grand Prix,Bahrain International Circuit,Albon,Williams,13,15,0.0,56
+2024,Bahrain Grand Prix,Bahrain International Circuit,Hülkenberg,Haas F1 Team,10,16,0.0,56
+2024,Bahrain Grand Prix,Bahrain International Circuit,Ocon,Alpine F1 Team,19,17,0.0,56
+2024,Bahrain Grand Prix,Bahrain International Circuit,Gasly,Alpine F1 Team,20,18,0.0,56
+2024,Bahrain Grand Prix,Bahrain International Circuit,Bottas,Sauber,16,19,0.0,56
+2024,Bahrain Grand Prix,Bahrain International Circuit,Sargeant,Williams,18,20,0.0,55
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Verstappen,Red Bull,1,1,25.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Pérez,Red Bull,3,2,18.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Leclerc,Ferrari,2,3,16.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Piastri,McLaren,5,4,12.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Alonso,Aston Martin,4,5,10.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Russell,Mercedes,7,6,8.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Bearman,Ferrari,11,7,6.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Norris,McLaren,6,8,4.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Hamilton,Mercedes,8,9,2.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Hülkenberg,Haas F1 Team,15,10,1.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Albon,Williams,12,11,0.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Magnussen,Haas F1 Team,13,12,0.0,50
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Ocon,Alpine F1 Team,17,13,0.0,49
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Sargeant,Williams,19,14,0.0,49
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Tsunoda,RB F1 Team,9,15,0.0,49
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Ricciardo,RB F1 Team,14,16,0.0,49
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Bottas,Sauber,16,17,0.0,49
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Zhou,Sauber,20,18,0.0,49
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Stroll,Aston Martin,10,19,0.0,5
+2024,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Gasly,Alpine F1 Team,18,20,0.0,1
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Sainz,Ferrari,2,1,25.0,58
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Leclerc,Ferrari,4,2,19.0,58
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Norris,McLaren,3,3,15.0,58
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Piastri,McLaren,5,4,12.0,58
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Pérez,Red Bull,6,5,10.0,58
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Stroll,Aston Martin,9,6,8.0,58
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Tsunoda,RB F1 Team,8,7,6.0,58
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Alonso,Aston Martin,10,8,4.0,58
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Hülkenberg,Haas F1 Team,16,9,2.0,58
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Magnussen,Haas F1 Team,14,10,1.0,57
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Albon,Williams,12,11,0.0,57
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Ricciardo,RB F1 Team,18,12,0.0,57
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Gasly,Alpine F1 Team,17,13,0.0,57
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Bottas,Sauber,13,14,0.0,57
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Zhou,Sauber,19,15,0.0,57
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Ocon,Alpine F1 Team,15,16,0.0,57
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Russell,Mercedes,7,17,0.0,56
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Hamilton,Mercedes,11,18,0.0,15
+2024,Australian Grand Prix,Albert Park Grand Prix Circuit,Verstappen,Red Bull,1,19,0.0,3
+2024,Japanese Grand Prix,Suzuka Circuit,Verstappen,Red Bull,1,1,26.0,53
+2024,Japanese Grand Prix,Suzuka Circuit,Pérez,Red Bull,2,2,18.0,53
+2024,Japanese Grand Prix,Suzuka Circuit,Sainz,Ferrari,4,3,15.0,53
+2024,Japanese Grand Prix,Suzuka Circuit,Leclerc,Ferrari,8,4,12.0,53
+2024,Japanese Grand Prix,Suzuka Circuit,Norris,McLaren,3,5,10.0,53
+2024,Japanese Grand Prix,Suzuka Circuit,Alonso,Aston Martin,5,6,8.0,53
+2024,Japanese Grand Prix,Suzuka Circuit,Russell,Mercedes,9,7,6.0,53
+2024,Japanese Grand Prix,Suzuka Circuit,Piastri,McLaren,6,8,4.0,53
+2024,Japanese Grand Prix,Suzuka Circuit,Hamilton,Mercedes,7,9,2.0,53
+2024,Japanese Grand Prix,Suzuka Circuit,Tsunoda,RB F1 Team,10,10,1.0,52
+2024,Japanese Grand Prix,Suzuka Circuit,Hülkenberg,Haas F1 Team,12,11,0.0,52
+2024,Japanese Grand Prix,Suzuka Circuit,Stroll,Aston Martin,16,12,0.0,52
+2024,Japanese Grand Prix,Suzuka Circuit,Magnussen,Haas F1 Team,18,13,0.0,52
+2024,Japanese Grand Prix,Suzuka Circuit,Bottas,Sauber,13,14,0.0,52
+2024,Japanese Grand Prix,Suzuka Circuit,Ocon,Alpine F1 Team,15,15,0.0,52
+2024,Japanese Grand Prix,Suzuka Circuit,Gasly,Alpine F1 Team,17,16,0.0,52
+2024,Japanese Grand Prix,Suzuka Circuit,Sargeant,Williams,19,17,0.0,52
+2024,Japanese Grand Prix,Suzuka Circuit,Zhou,Sauber,20,18,0.0,12
+2024,Japanese Grand Prix,Suzuka Circuit,Ricciardo,RB F1 Team,11,19,0.0,0
+2024,Japanese Grand Prix,Suzuka Circuit,Albon,Williams,14,20,0.0,0
+2024,Chinese Grand Prix,Shanghai International Circuit,Verstappen,Red Bull,1,1,25.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Norris,McLaren,4,2,18.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Pérez,Red Bull,2,3,15.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Leclerc,Ferrari,6,4,12.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Sainz,Ferrari,7,5,10.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Russell,Mercedes,8,6,8.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Alonso,Aston Martin,3,7,7.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Piastri,McLaren,5,8,4.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Hamilton,Mercedes,18,9,2.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Hülkenberg,Haas F1 Team,9,10,1.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Ocon,Alpine F1 Team,13,11,0.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Albon,Williams,14,12,0.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Gasly,Alpine F1 Team,15,13,0.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Zhou,Sauber,16,14,0.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Stroll,Aston Martin,11,15,0.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Magnussen,Haas F1 Team,17,16,0.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Sargeant,Williams,20,17,0.0,56
+2024,Chinese Grand Prix,Shanghai International Circuit,Ricciardo,RB F1 Team,12,18,0.0,33
+2024,Chinese Grand Prix,Shanghai International Circuit,Tsunoda,RB F1 Team,19,19,0.0,26
+2024,Chinese Grand Prix,Shanghai International Circuit,Bottas,Sauber,10,20,0.0,19
+2024,Miami Grand Prix,Miami International Autodrome,Norris,McLaren,5,1,25.0,57
